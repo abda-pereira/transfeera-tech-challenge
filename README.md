@@ -19,12 +19,12 @@ Esta é uma aplicação para gerenciamento de favorecidos usando operações CRU
 
 #### 1) Clone o repositório:
 ```bash
-git clone https://github.com/seu_usuario/nome_do_projeto.git
+git clone https://github.com/abda-pereira/transfeera-tech-challenge.git
 ```
 
 #### 2) Navegue para a pasta do projeto
 ```bash
-cd nome_do_projeto
+cd transfeera-tech-challenge
 ```
 
 #### 3) Instale as dependências:
