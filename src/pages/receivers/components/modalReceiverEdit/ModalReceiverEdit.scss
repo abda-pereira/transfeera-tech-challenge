@@ -1,0 +1,12 @@
+@media screen and (max-width: 477px) {
+    .modal-footer {
+        display: grid;
+        gap: 20px;
+        justify-content: center;
+        margin-top: 40px;
+    }
+
+    .btn-back-mreceiver {
+        justify-self: center;
+    }
+}
