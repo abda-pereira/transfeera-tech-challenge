@@ -1,0 +1,7 @@
+{
+  "name": "Teste de Cypress",
+  "email": "hello@cypress.io",
+  "tax_id": "13044585040",
+  "pix_key_tipe": "cpf",
+  "pix_key": "13044585040"
+}
